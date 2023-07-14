@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  background-color: #ffffff;
+  color: beige;
+min-height: 100vh;
+}
+
+h1{
+  margin: 0;
+  color:  rgb(0, 0, 0);
+}
+p{
+  color: black;
+}
+
+.header{
+  background-color: rgb(246, 48, 37);
+  padding: 8px;
+  color: white;
+}
+
+.main{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 14px;
+
+}
+
+.movies{
+  background-color:  rgb(247, 214, 214);
+  color:  black;
+  border: 1px solid rgb(0, 0, 0);
+  padding: 3px;
+  font-weight: bold;
+  text-align: start;
+  width: 19%;
+  margin-top: 14px;
+  
+}
+
+.movies img {
+  height: 280px;
+  width: 100%;
+}
+
