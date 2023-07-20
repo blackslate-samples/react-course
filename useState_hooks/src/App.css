@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  background-color: #000000;
+  color: beige;
+min-height: 100vh;
+}
+
+.header {
+margin: 0%;
+background-color: chartreuse;
+  color: red;
+  padding: 15px;
+
+}
+.btn button{
+  padding: 10px;
+  margin: 5px;
+  color:rgb(255, 255, 255);
+  background-color: purple;
+  width: 100px;
+  height: 40px;
+}
+
+.main{
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+h1{
+  color: aliceblue;
+}
