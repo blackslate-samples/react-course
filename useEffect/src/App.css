@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  display: felx;
+  flex-direction: row;
+  background: linear-gradient(to right , rgb(88, 19, 200), rgb(138, 104, 194)) ;
+
+}
+
+h3{
+margin-top: 0px;
+}
+
+.data{
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+button{
+  padding: 20px;
+  background-color: blueviolet;
+  color: white;
+  border-radius: 10px;
+  position: relative;
+  justify-content: center;
+  font-weight: bold;
+  font-size: large;
+}
+.Head{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgb(155, 214, 96);
+  margin-top: 20px;
+  color: white;
+}
+
+h3{
+  color: white;
+}
