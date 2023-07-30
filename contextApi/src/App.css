@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.A{
+  background-color: red ;
+padding: 10px ;
+  margin: 5px;
+  width: 400px;
+  height: 400px;
+}
+
+.B{
+  background-color: rgb(254, 216, 0) ;
+  padding: 10px;
+  margin: 5px;
+  width: 350px;
+  height: 350px;
+}
+
+.C{
+  background-color: rgb(38, 255, 0) ;
+  padding: 10px;
+  margin: 5px;
+  width: 300px;
+  height: 300px;
+}
+.Head{
+  background-color: chartreuse;
+}
